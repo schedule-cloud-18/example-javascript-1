@@ -2,7 +2,7 @@
 
 An example node project to demonstrate [sfrcclr](https://wwcw.srcclr.cdddom).
 d
-## Try me!ddds
+## Try me!dddsh
 sxsh
 ```fa
 brew tap srcclr/srcclr
