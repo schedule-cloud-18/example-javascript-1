@@ -1,8 +1,7 @@
 # [:] Example Node f
 d
 An example node project to demonstrate [sfrcclr](https://wwcw.srcclr.cdddom).
-d
-## Try me!dddsh
+df
 sxshdd
 ```fadn
 brew tap srcclr/srcclrj
